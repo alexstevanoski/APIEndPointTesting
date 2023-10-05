@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K4+6mD5y1rwEeoVsH0C6uiks3NiAsoSfM0268CAztnrSh4EmrRpz3oP40tJk88Mei9+FzCSoe4Wm2rsP6gjHYQ==",
+  "dgSpecHash": "NBJa3geOHPwlhy/ucZ5alVdNn1IJU0bZecIbLluiBtQvf8iSZ7/ycHbvzysh0LwM5PSKOzzO1aGdUxQPdLQMWw==",
   "success": true,
   "projectFilePath": "/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/API endpoint testing project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/alexstevanoski/.nuget/packages/restsharp/110.2.1-alpha.0.13/restsharp.110.2.1-alpha.0.13.nupkg.sha512",
+    "/Users/alexstevanoski/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/alexstevanoski/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
