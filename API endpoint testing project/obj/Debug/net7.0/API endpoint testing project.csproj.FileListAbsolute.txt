@@ -26,3 +26,6 @@
 /Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.pdb
 /Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.genruntimeconfig.cache
 /Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/ref/API endpoint testing project.dll
+C:\Users\alexa\Source\Repos\alexstevanoski\APIEndPointTesting\API endpoint testing project\obj\Debug\net7.0\API endpoint testing project.dll
+C:\Users\alexa\Source\Repos\alexstevanoski\APIEndPointTesting\API endpoint testing project\obj\Debug\net7.0\refint\API endpoint testing project.dll
+C:\Users\alexa\Source\Repos\alexstevanoski\APIEndPointTesting\API endpoint testing project\obj\Debug\net7.0\API endpoint testing project.pdb
