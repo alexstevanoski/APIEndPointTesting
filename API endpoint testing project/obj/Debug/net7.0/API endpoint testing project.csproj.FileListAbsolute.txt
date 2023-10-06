@@ -1,0 +1,28 @@
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.csproj.AssemblyReference.cache
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.AssemblyInfoInputs.cache
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.AssemblyInfo.cs
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.csproj.CoreCompileInputs.cache
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.MvcApplicationPartsAssemblyInfo.cache
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/bin/Debug/net7.0/appsettings.Development.json
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/bin/Debug/net7.0/appsettings.json
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/bin/Debug/net7.0/API endpoint testing project
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/bin/Debug/net7.0/API endpoint testing project.deps.json
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/bin/Debug/net7.0/API endpoint testing project.runtimeconfig.json
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/bin/Debug/net7.0/API endpoint testing project.dll
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/bin/Debug/net7.0/API endpoint testing project.pdb
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/bin/Debug/net7.0/RestSharp.dll
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/staticwebassets/msbuild.API endpoint testing project.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/staticwebassets/msbuild.build.API endpoint testing project.props
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API endpoint testing project.props
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API endpoint testing project.props
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/staticwebassets.build.json
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/staticwebassets.development.json
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/scopedcss/bundle/API endpoint testing project.styles.css
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.csproj.CopyComplete
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.dll
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/refint/API endpoint testing project.dll
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.pdb
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.genruntimeconfig.cache
+/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/ref/API endpoint testing project.dll

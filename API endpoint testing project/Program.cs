@@ -5,11 +5,11 @@ using RestSharp.Authenticators;
 using System.Threading.Tasks;
 using System.Net.Http.Headers;
 
-namespace ChallengesApp
+namespace APITesting
 {
-    public class ChuckNorris
+    public class MainClass
     {
-        public static void ChuckNorriss()
+        public static void Main()
         {
             string url = "https://matchilling-chuck-norris-jokes-v1.p.rapidapi.com/jokes/random";
             
