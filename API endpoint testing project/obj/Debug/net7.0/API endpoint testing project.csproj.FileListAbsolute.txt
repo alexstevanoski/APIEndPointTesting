@@ -57,3 +57,4 @@ C:/Users/alexa/Source/Repos/alexstevanoski/APIEndPointTesting/API endpoint testi
 /Users/alexstevanoski/Documents/GitHub/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.pdb
 /Users/alexstevanoski/Documents/GitHub/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/API endpoint testing project.genruntimeconfig.cache
 /Users/alexstevanoski/Documents/GitHub/APIEndPointTesting/API endpoint testing project/obj/Debug/net7.0/ref/API endpoint testing project.dll
+/Users/alexstevanoski/Documents/GitHub/APIEndPointTesting/API endpoint testing project/bin/Debug/net7.0/Newtonsoft.Json.dll
