@@ -196,11 +196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/API endpoint testing project.csproj",
+      "projectUniqueName": "/Users/alexstevanoski/Documents/GitHub/APIEndPointTesting/API endpoint testing project/API endpoint testing project.csproj",
       "projectName": "API endpoint testing project",
-      "projectPath": "/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/API endpoint testing project.csproj",
+      "projectPath": "/Users/alexstevanoski/Documents/GitHub/APIEndPointTesting/API endpoint testing project/API endpoint testing project.csproj",
       "packagesPath": "/Users/alexstevanoski/.nuget/packages/",
-      "outputPath": "/Users/alexstevanoski/Desktop/API Testing project/APIEndPointTesting/API endpoint testing project/obj/",
+      "outputPath": "/Users/alexstevanoski/Documents/GitHub/APIEndPointTesting/API endpoint testing project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alexstevanoski/.nuget/NuGet/NuGet.Config"
