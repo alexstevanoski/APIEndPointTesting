@@ -27,13 +27,18 @@ namespace APITesting
             //Receive input
             Console.WriteLine();    
             Console.Write("Enter your selection: ");
-            string menuIN = Console.ReadLine();
 
             //Menu logic
+            /*
+            string menuIN = Console.ReadLine();
             if (menuIN == "1") {ChuckNorrisClass.ChuckNorrisAPI();}
             else if (menuIN == "2") {ItalianJokesClass.ItalianJokesAPI();}
             else if (menuIN == "3") {BPIClass.BPI();}
+            else if (menuIN == "4") {Calendar.CalendarAccessor();}
             else {Console.WriteLine("Invalid. Press any key to try again."); Console.ReadKey(); MainC.Main();}
+            */
+
+            Amiibo.AmiiboAPI();
 
             //Clear console on completion
             Console.Clear();
