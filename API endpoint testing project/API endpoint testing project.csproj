@@ -6,6 +6,7 @@
     <RootNamespace>API_endpoint_testing_project</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="RestSharp" Version="110.2.1-alpha.0.13"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.11" />
+    <PackageReference Include="RestSharp" Version="110.2.0" />
   </ItemGroup>
 </Project>
