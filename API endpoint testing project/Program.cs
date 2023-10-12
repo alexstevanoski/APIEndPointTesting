@@ -5,22 +5,43 @@ using RestSharp.Authenticators;
 using System.Threading.Tasks;
 using System.Net.Http.Headers;
 
-namespace APITesting;
-
-public class MainClass
+//Namespace
+namespace APITesting
 {
-    public static void Main()
+    //Class
+    public class MainC
     {
-        string url = "https://matchilling-chuck-norris-jokes-v1.p.rapidapi.com/jokes/random";
-        
-        var client = new RestClient(url);
-        var request = new RestRequest();
-        request.AddHeader("X-RapidAPI-Key", "95420226abmshc17434483ca7701p1afebajsn23899967f720");
-        request.AddHeader("X-RapidAPI-Host", "matchilling-chuck-norris-jokes-v1.p.rapidapi.com");
+        // Method
+        public static void Main()
+        {
+            //Header
+            Console.Clear();    
+            Console.WriteLine("Welcome. Make your selection:");
+            Console.WriteLine("=============================");
 
-        var response = client.Get(request);
+            //Menu items
+            Console.WriteLine("1. Chuck Norris Jokes API");
+            Console.WriteLine("2. Italian Jokes API");
+            Console.WriteLine("3. Coindesk BPI API");
 
-        Console.WriteLine(response.Content);
-        Console.Read();
+            //Receive input
+            Console.WriteLine();    
+            Console.Write("Enter your selection: ");
+
+            //Menu logic
+            /*
+            string menuIN = Console.ReadLine();
+            if (menuIN == "1") {ChuckNorrisClass.ChuckNorrisAPI();}
+            else if (menuIN == "2") {ItalianJokesClass.ItalianJokesAPI();}
+            else if (menuIN == "3") {BPIClass.BPI();}
+            else if (menuIN == "4") {Calendar.CalendarAccessor();}
+            else {Console.WriteLine("Invalid. Press any key to try again."); Console.ReadKey(); MainC.Main();}
+            */
+
+            Amiibo.AmiiboAPI();
+
+            //Clear console on completion
+            Console.Clear();
+        }
     }
 }
